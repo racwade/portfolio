@@ -1,0 +1,2451 @@
+============================================================
+American McGee's Alice
+
+Game Script
+
+FAQ Created: 03-JUL-2008
+Version: 1.0
+Author: Ladytanaka
+
+============================================================
+Table of contents
+
+1: Version History
+2: Contact Info
+3: Disclaimer and Legal Information
+4: Warnings
+5: Introduction
+6: Character Abbreviations
+7: Script Conventions
+8: Game script
+
+  Section 01 - Village of the Doomed
+    01a - Dementia
+    01b - Pandemonium
+ 
+  Section 02 - Fortress of Doors
+    02a - Fortress of Doors (pt 1)
+    02b - Beyond the Wall
+    02c - Fortress of Doors (pt 2)
+    02d - Skool Daze (pt 1)
+    02e - Skool's Out
+    02f - Skool Daze (pt 2)
+
+  Section 03 - Vale of Tears
+    03a - Pool of Tears
+    03b - Hollow Hideaway
+    03c - Just Desserts
+    03d - Wholly Morel Ground
+
+  Section 04 - Wonderland Woods
+    04a - Dry Landing
+    04b - Herbaceous Border
+    04c - Rolling Stones
+    04d - Icy Reception
+    04e - Fungiferous Flora
+    04f - Centipede's Sanctum
+    04g - Caterpillar's Plot (pt 1)
+
+  Section 05 - Looking Glass Land
+    05a - Pale Realm
+    05b - Castling
+    05c - Checkmate in Red
+    05d - Mirror Image
+
+  Section 06 - Behind the Looking Glass
+    06a - Crazed Clockwork
+    06b - About Face
+
+  Section 07 - Land of Fire and Brimstone
+    07a - Burning Curiosity
+    07b - Jabberwock's Lair
+    07c - Caterpillar's Plot (pt 2)
+
+  Section 08 - Queen of Hearts Land
+    08a - Majestic Maze
+    08b - Airborne Terror
+    08c - Mystifying Madness
+    08d - Water Logged
+    08e - Labyrinthine Revenge
+    08f - Machinations
+
+  Section 09 - Queensland
+    09a - Royal Rage
+    09b - Battle Royale
+    09c - Ascension
+    09d - Castle Keep
+    09e - Heart of Darkness
+
+9: Cheshire Cat Random Hint Dialogue
+10: Background Story
+11: Non-implemented Dialogue
+12: FAQs
+13: Credits
+
+============================================================
+1: Version History
+
+Version 1.0 (03-JUL-2008) - original release
+
+============================================================
+2: Contact Info
+
+If you have any comments, suggestions, or corrections, email me at
+ladytanaka@aol.com.  
+
+Make sure that you include the subject "American McGee's Alice"!
+
+============================================================
+3: Disclaimer and Legal Information
+
+This game script is for informational purposes only.  This may be not be
+reproduced under any circumstances except for personal, private use. It may not
+be placed on any web site or otherwise distributed publicly without advance
+written permission. Use of this guide on any other web site or as a part of any
+public display is strictly prohibited. 
+
+This game script guide in no way or form has any affiliation with EA Games or
+Rogue Entertainment. 
+
+All trademarks and copyrights in this document are owned by their respective
+trademark and copyright holders.
+
+Please do not ask me about posting this game script on your own site.  The
+finished game script will be posted only on GameFAQs. If you see this guide on
+any other website, please contact me about it. Thank you.
+
+Copyright 2008 Ladytanaka
+
+============================================================
+4: Warnings
+
+This script contains massive SPOILERS for the entire story of American McGee's
+Alice.
+
+The game and script contains scenes of violence and strong language. 
+
+============================================================
+5: Introduction
+
+This script contains all the game dialogue and description of all cutscenes in
+the game.
+
+This script's dialogue/text is as close to the actual game as I could manage. 
+It comes verbatim from the in-game subtitles and subtitle text extracted from
+various game files.
+
+============================================================
+6: Characters (in approximate order of appearance)
+
+ALICE - Alice (player)
+HARE - the March Hare
+HATTER - the Mad HATTER
+RABBIT - the White Rabbit
+PARENTS - Alice's parents
+MOTHER - Alice's mother
+FATHER - Alice's father
+NURSE - a nurse in the asylum
+CHESHIRE - the Cheshire Cat
+GNOME1 - a gnome in the mines
+GNOME2 - a gnome in the mines
+GNOME3 - a gnome in the mines
+GNOME4 - a gnome in the mines
+ELDER - the Gnome Elder
+TURTLE - the Mock Turtle
+BILL - Bill McGill (aka Larry)
+DUCHESS - the Duchess
+CATERPILLAR - the Caterpillar
+CENTIPEDE - the Centipede
+ORACLE - the Oracle (aka the CATERPILLAR)
+WHITE KING - the White King of the Pale Realm
+TWEEDLE-DUM - Tweedle-dum (the small Tweedle twin)
+TWEEDLE-DEE - Tweedle-dee (the big Tweedle twin)
+DORMOUSE - the Dormouse
+GRYPHON - the Gryphon
+JABBERWOCK - the Jabberwock
+
+============================================================
+7: Script Conventions
+
+"(vo)" indicates a voice-over, where the speaker is not physically (or
+visually) present and not clearly identified as speaking
+
+"< >" indicates visual/auditory descriptions of events or actions
+
+"<< >>" indicates optional hint dialogue from the Cheshire Cat
+
+============================================================
+8: Game Script
+
+-----start intro game credits-----
+EA Games
+
+<EA Game logo spins and explodes into a puff of flame as the CHESHIRE Cat's
+grin appears, followed by its face>
+
+Rogue Entertainment
+-----end intro game credits-----
+
+
+-----start intro cutscene-----
+<camera pans from a fireplace mantle with a ticking clock down to the lit
+fireplace, then sideways over a table with a chessboard, some playing cards,
+and an oil lamp>
+<camera continues pan over a writing desk with a pocket watch, old-fashioned
+pictures of Alice's mother and a portrait of Alice and her parents>
+<young ALICE sleeps in her bed, holding her stuffed rabbit>
+HARE(vo): Wake up, Dormy. It's time for the tea party.
+<camera zooms in on an open book in Alice's bed and the book illustration of
+the Mad HATTER's tea party>
+Mad HATTER(vo): I've got one.  Why is a raven like a writing desk?
+<camera pans over the writing desk again to focus on a black cat snoozing at
+the end of the desk>
+<the black cat gets up and stretches, bumping a stack of books>
+<the black cat screeches and runs away as the books topple, knocking over the
+pictures and other items>
+<sound of breaking glass> 
+<camera pans back toward the fireplace, showing the fallen playing cards and
+the now broken oil lamp>
+<sound of oil trickling over the floor>
+<the spilled oil from the lamp reaches the fireplace and catches fire>
+<closeup of book page -  "IV - SMOKE AND FIRE">
+HATTER(vo): Ahhhh!  Oh dear!  Oh dear!  
+HARE(vo): You must save Alice!
+RABBIT(vo): Wake up Alice!  Wake up!
+<ALICE sits up in her bed with a gasp as flames chase across the screen>
+<as the fire spreads across the room from the fireplace to the writing desk>
+ALICE(vo): Mom?  Dad?
+PARENTS(vo): Alice!?
+<camera pans across burning picture of young ALICE approaching a closed door
+with a bright light behind it>
+<camera pans across burning picture of young ALICE reaching out toward the
+closed door, as fire and smoke seeps around the edges>
+ALICE(vo): Mom!?  Father!?
+<camera pans down toward picture of young ALICE's hand reaching for the door
+knob>
+FATHER(vo): For God's sake!
+MOTHER(vo): Get out, Alice!
+FATHER(vo): Save yourself, Alice! Get out of the house!
+<camera pans over picture of horrified young ALICE recoiling>
+<camera pans over picture of young ALICE running down some stairs>
+PARENTS(vo): (death scream) ALICE!
+ALICE(vo): (scream)
+<screams continue as camera pans to the outside of the house>
+<just outside the door, young ALICE (in her nightgown) lies in the snow, her
+stuffed rabbit lying nearby>
+<screams continue>
+<young ALICE looks up as camera zooms in on her shocked green eyes>
+<camera zooms out away from ALICE's blank green eyes>
+<as the sound of screaming fades away, ALICE lies in an asylum bed, stiff and
+unresponsive, her stuffed rabbit lying beside her>
+NURSE(female): Poor dear, after all these years.  Maybe that old rabbit will
+bring her around.
+<light fades as a door closes with a clang>
+<lightning flashes and thunder crashes as the sound of footsteps fade away>
+<ALICE's right arm twitches, then slowly curls around the stuffed rabbit>
+<lightning and thunder continue, accompanied by distant yells and screams of
+the insane asylum's inmates>
+<ALICE's gaze flickers, then she stares down in shock as the stuffed white
+rabbit in her arms suddenly comes to life and turns toward her>
+RABBIT: (deep, hollow voice) Save us, Alice!
+<scene turns into a photo>
+<camera pans downward as the photo, a white chess pawn, a queen of hearts card,
+a broken pocket watch (with gears spilling out of it), and the stuffed rabbit
+tumble through the air>
+<camera follows the stuffed rabbit as it hits the ground with a heavy 'flump'> 
+-----end intro cutscene-----
+
+============================================================
+01a - Dementia
+------------------------------
+
+<ALICE falls screaming down a long hole with glowing blue walls and lands hard
+in a rocky landscape>
+<as ALICE gets up and dusts herself off>
+RABBIT: Please don't dawdle, Alice.  We're very late indeed!
+<White RABBIT runs off into a mine tunnel>
+
+<CHESHIRE Cat appears and approaches ALICE>
+ALICE: You've gone quite mangy, Cat, but your grin's a comfort.
+CHESHIRE: And you've picked up a bit of an attitude.  Still curious, and
+willing to learn, I hope.
+ALICE: Wonderland's become quite strange.  How is one to find her way?
+CHESHIRE: As knowing where you're going is preferable to being lost, ask. 
+Rabbit knows a thing or two.  And I, myself, don't need a weathervane to tell
+which way the wind blows.
+CHESHIRE: Let your need guide your behavior.  Suppress your instinct to lead.
+Pursue Rabbit.
+<CHESHIRE Cat vanishes>
+
+<when ALICE approaches the first gnome who is stooped and hunched under the
+weight of a large glowing stone strapped to his back with a locked harness>
+GNOME1: Our land is destroyed; our spirit crushed.
+ALICE: Reminds me of the asylum.  Is there no joy here?
+GNOME1: Slavery and happiness do not dwell in the same house.
+<GNOME1 runs off>
+<CHESHIRE Cat appears near the fuming crevice>
+CHESHIRE: When the path is problematical, consider a leap of faith.  Ride the
+wind.
+<CHESHIRE Cat vanishes>
+
+<after ALICE floats over the fuming crevice>
+GNOME2: Stir up no trouble, stranger.  The Red Queen's agents are ruthless.
+ALICE: I'm not afraid of her, or her creatures.  Never was, really.  You should
+stand up to them.
+GNOME2: Defiance is useless.  While the Queen reigns, only death can release us
+from this misery.
+ALICE: Or her death, I suppose.
+<camera zooms down a tunnel toward CHESHIRE Cat, who stands in front of a
+glowing red crystal>
+CHESHIRE: Meta-Essence is the life force of wonderland; that of your enemies is
+especially potent.  Collect what you can. Use it wisely.
+<CHESHIRE Cat vanishes>
+
+<when ALICE picks up the glowing Vorpal Knife>
+<CHESHIRE Cat appears>
+CHESHIRE: Your knife is necessary, but not sufficient.  Always collect what's
+useful.  
+<ALICE holds up her knife and tests the edge of the blade>
+CHESHIRE: Reject only your ignorance and you may survive.
+<CHESHIRE Cat vanishes>
+<camera pans up toward White RABBIT, who shrinks and runs into a small hole in
+the wall>
+
+<when ALICE approaches GNOME3>
+ALICE: Everyone seems completely dejected.  Are things really as bad as all
+that?
+GNOME3: The truth would reduce you to a blubbering baby.... Are you the savior
+Rabbit has been telling us about all this time?
+ALICE: I shouldn't think so.  I'm a person... and just now I wish to get very
+small.
+<ALICE holds up her hand in a 'that small' gesture>
+ALICE:  About this big.
+GNOME3: Calls for serious twisting.  You'll need to go sideways, not forward. 
+If I knew how, I'd go sideways myself.
+ALICE: Not twisted.  Small.  I wish to become about this big.
+<ALICE again holds up her hand in a 'that small' gesture>
+GNOME3: The Fortress of Doors holds such secrets.  But it will take more than a
+wish to get inside.
+<CHESHIRE Cat appears>
+CHESHIRE: Doors have locks.  Locks have keys.  Which you don't have.  Let's
+hope the Doors are open.
+ALICE: And if not, there may be more than one way to skin a cat, if you'll
+pardon the expression.
+CHESHIRE: Most unpleasant metaphor.  Please avoid it in the future.
+
+<when Alice walks by a ledge, CHESHIRE Cat appears atop it>
+CHESHIRE: Only a few find the way; some don't recognize it when they do; some
+don't ever want to.
+<CHESHIRE Cat vanishes>
+
+<when ALICE encounters the next gnome>
+GNOME4: Rabbit told us a champion would come.  Are you that champion?
+ALICE: Perhaps.  Can you get me inside the Fortress of Doors?
+GNOME4: Oh no.  Wouldn't dare.  Since the upheaval, we've all become gutless
+half-wits.  I can barely risk crossing the road... But, make your way to the
+mines -- the deepest pit -- there's one wiser and braver than myself who might
+help.  He still lives free.
+
+<as ALICE approaches the "Yur Mine" sign>
+<CHESIRE appears below the sign>
+CHESHIRE: Every adventure requires a first step. Trite, but true, even here.
+<CHESHIRE vanishes>
+
+============================================================
+01b - Pandemonium
+------------------------------
+
+<when ALICE approaches the first rope>
+<CHESHIRE Cat appears>
+CHESHIRE: Hanging ropes are as good as step ladders to those who know how to
+use them.
+<CHESHIRE Cat vanishes>
+
+<when ALICE approaches the Gnome ELDER>
+ELDER: Why do you pursue me to this deserted place...?
+ALICE: To benefit from your wisdom.
+ELDER: Even blurred vision is valued by the blind.  If I were clever, would I
+cower in this slag heap?  I'm not wise, girl... I've just grown old.
+ALICE: I wish to get very small.  No bigger than a mouse.  Do you know how I
+might do that?
+ELDER: Only that?  Oh yes, I could manage that... for a price.
+<ALICE shakes her head>
+ALICE: I have nothing of value.
+ELDER: You have nerve and your health.  Mine are nearly gone.  I've seen too
+much suffering... and I smoke too much you see.
+ALICE: What must I do?
+<camera moves up a curved staircase, through a hallway with Card Guards>
+ELDER: In the Card Guards' compound, a particularly rough diamond holds the
+key.  Retrieve it.
+<camera focuses in a skull-topped staff lying on a table>
+ELDER: I will... repay the favor.
+<the ELDER then disappears in a whirl of sparkles>
+
+<ALICE jumps on a mine cart, which moves up a shaft, then takes her on a ride
+through the mines>
+<camera shows the mine cart plunging downward into green slime>
+<camera pulls back to show ALICE standing on the edge of the platform, looking
+downward>
+
+<when ALICE picks up the Playing Cards>
+<CHESHIRE Cat appears>
+CHESHIRE: 52 pickup is a staple of juvenile humor.  But when the deck slices
+and dices, it's no laughing matter.
+<CHESHIRE Cat vanishes>
+
+<after ALICE exits green portal>
+<camera pans across an area filled with Card Guards>
+<at the far end of the area, the ELDER stands in front of another green portal
+and beckons to ALICE, then disappears in a whirl of sparkles>
+
+<after ALICE enters the green portal>
+<ALICE approaches a blimp-like contraption where the ELDER waits>
+ELDER: You have the key!  Very resourceful.  Rabbit's confidence is now
+misplaced.  He is no fool.
+ALICE: I certainly hope he is not.
+<as ELDER and ALICE fly away from the mines>
+ELDER: Use the key to free my clan from the oppressive burden they carry.  Any
+fight against the Queen's tyranny is a good fight.  They've suffered...
+ALICE: I'm sure I'm very sorry for them, sir.  Really, I am.  But what about me
+getting small?
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Ignore the Queen . . . for now. Keep your eye on Rabbit.
+
+CHESHIRE: Rabbit's handy with a map.  He's on the right road. And at present,
+you're too big to follow.
+
+CHESHIRE: Doors have locks, locks need keys, which you don't have. Let's hope
+the Doors are open.
+
+CHESHIRE: The Guards lack imagination. Don't play with them, unless you're
+ready to deal.
+
+CHESHIRE: Odds are the next gnome will know something of value. That last idiot
+was nearly useless.
+
+CHESHIRE: The old rebel is a legend. Search the mines for him.
+
+CHESHIRE: Keys and locks like hens and cocks are often found together.
+
+============================================================
+02a - Fortress of Doors (pt 1)
+------------------------------
+
+<the blimp flies by a rocky column, where an insane child prances>
+
+<as the ELDER propells the blimp past massive stalactites>
+ELDER: There's a Skool, inside the Fortress, where you'll find certain items
+for creating a concoction that will make you small.
+ALICE: What items exactly?
+<the blimp approaches a rocky platform with a closed drawbridge gate>
+ELDER: Items.  Items, girl.  You'll know them when you see them.
+<camera switches to a Card Guard who quickly catches sight of the blimp and
+runs off>
+ELDER: Speaking of seeing things, we should avoid the Card Guards's notice,
+hang on! ... Ahhhhhh! -- DAMMIT! We've been seen.
+<drawbridge gate lowers and Card Guards rush out as the blimp flies away>
+<Card Guards shoot at the blimp as it flies over the Fortress walls>
+<the blimp approaches a castle in the void as Card Guards shoot at it>
+ELDER: Eventually, you must break through such walls... but for now, jump!
+
+============================================================
+02b - Beyond the Wall
+------------------------------
+
+<when ALICE picks up the glowing red flask>
+<CHESHIRE Cat appears>
+CHESHIRE: Time to raise some havoc.  The dogs of war are loose.
+<a red mist shoots from the flask and hits ALICE>
+<ALICE turns red, drops to her knees, then transforms (temporarily) into a
+demonic version of herself>
+<CHESHIRE Cat vanishes>
+
+<after ALICE enters green portal>
+<camera shows a green portal, then pans back as three doors close in sequence,
+each with its distinctive musical tone>
+
+<after ALICE descends winding stairs to platform with 3 switches>
+<CHESHIRE Cat appears near switches>
+CHESHIRE: The proper order of things is often a mystery to me.  You, too?
+<CHESHIRE Cat vanishes>
+
+<after ALICE pulls the right, left, middle switches in sequence>
+<camera pans forward through the three musical doors as they open, revealing a
+green portal>
+
+<<CHESHIRE Cat Hint in the area of the three musical doors>>
+CHESHIRE: Inside the wall is not inside the Fortress. The old Gnome was short
+on details.
+
+<after ALICE enters green portal>
+<camera shows a hallway as a portion of the floor flips over, then breaks up
+into moving floating segments which lead up to a doorway with a green portal>
+
+<<CHESHIRE Cat Hint at the shuffling doors>>
+CHESHIRE: Observe, learn, and react.
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Cling closely to the path, Alice. A fall will dash your head along
+with all our hopes.
+
+CHESHIRE: The Guards are tools of the Queen. All suits are dolts. But
+dangerous.
+
+CHESHIRE: Boojums have revolting manners. They'll eat anything. Dispose of them
+or become a meal.
+
+CHESHIRE: That savage shriek is the mere tip of the iceberg that is the
+Boojum's repulsive personality. 
+
+============================================================
+02c - Fortress of Doors (pt 2)
+------------------------------
+
+<as ALICE moves along the castle wall, camera shows an open window in the Skool
+house as 2 boojums fly by>
+
+<as ALICE approaches the open window of the Skool house>
+<CHESHIRE Cat appears>
+CHESHIRE: Entering skool requires a real leap of logic!
+<CHESHIRE Cat vanishes>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Protective walls may impede you. But the walls most difficult to
+penetrate are those that surround our hearts.
+
+============================================================
+02d - Skool Daze (pt 1)
+------------------------------
+
+<an insane child wanders around the level's starting point>
+
+<when ALICE obtains the Croquet Mallet>
+<CHESHIRE Cat appears>
+CHESHIRE: Here's a riddle.  When is a croquet mallet like a billy club?  I'll
+tell you.  Whenever you want it to be.
+<CHESHIRE Cat vanishes>
+
+<when ALICE enters the auditorium>
+<ALICE descends the steps to the front of the auditorium, where the ELDER is
+waiting>
+<two paintings of waterfalls hang over the stage>
+<two trapdoors open on the stage and 2 weeping/laughing insane children rise
+into view>
+ALICE: There's a bit more to do than you suggested, don't you think?
+ELDER: No need for sarcasm.  I admit, my memory's not what it was.  But I'm
+here now.  I'll try to amend its deficiencies.  
+<on the stage, another trap door opens and a third insane child appears>
+ELDER: The library contains a recipe for the potion.  Consult the Book of
+Bizarre Things. Oh, no... Run...
+<camera shows Card Guards running into the auditorium>
+<the ELDER disappears in a whirl of sparkles>
+
+<when ALICE exits the auditorium>
+<camera shows the ELDER materialize in the library>
+<the ELDER walks to a shelf, gestures, and the shelf slides backwards, opening
+up a new passageway>
+
+<after ALICE rides rotating platform to the second floor>
+<camera zooms in on CHESHIRE Cat as it appears near a bookcase>
+CHESHIRE: Steps to enlightment brighten the way; but the steps are steep.  Take
+them one at a time.
+<CHESHIRE Cat knocks over the bookcase, forming a ramp to the third floor>
+
+<after ALICE touches the 4th glowing book>
+<camera shows the 4 floating books forming a path to a book in a niche>
+
+<when ALICE climbs on the platform behind the book>
+<ALICE stands behind the book and looks up at CHESHIRE Cat>
+ALICE: There's no lock, but it won't open.  It's stuck.
+CHESHIRE: Treat it like a Chinese box or a stubborn lin.  A tap in the right
+spot might do the trick.
+<ALICE looks thoughtfully at the book, then pushes it to the very edge of the
+niche> 
+<as the book rocks back and forth, ALICE gives the book a final kick so it
+falls to the floor far below and springs opens>
+CHESHIRE(vo): You call that a tap?  Fortunate I didn't suggest force.  You
+might have pulverized it.
+<the pages of the book turn to show a blurry picture of a mushroom>
+
+<when ALICE approaches the open book on the floor>
+ALICE: Mushrooms, poppies, sugar and spice.  All those things are very nice. 
+When combined the proper mixture makes a getting-small elixir.  Hmm, I don't
+really like sweets.
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: This Skool serves more than nasty lunches. The laboratories are
+especially fascinating, if you can stand the vile stench.
+
+CHESHIRE: Countless generations of termites would only digest a mere fraction
+of the volumes here; and they wouldn't be one wit wiser.
+
+CHESHIRE: Every picture tells a story. Sometimes we don't like the ending.
+Sometimes we don't understand it.
+
+============================================================
+02e - Skool's Out
+------------------------------
+
+<when ALICE obtains the demon dice>
+<CHESHIRE Cat appears>
+CHESHIRE: Ah, the diabolical dice.  A word of caution.  Don't throw them when
+you're alone.  The fiends lack loyalty, and their notion of nourishment is
+quite disturbing.
+<CHESHIRE Cat vanishes>
+
+<when ALICE pulls the lever in the gymnasium>
+<the gym seats extend from the wall>
+<camera shows the ELDER in the rafters, beckoning to ALICE>
+
+<when ALICE picks up the Rage Box in the floor alcove in the gym>
+CHESHIRE: How fine you look when dressed in rage. Your enemies are fortunate
+that your condition is not permanent. And you're lucky too. Red eyes suit so
+few. 
+
+<as ALICE approaches the ELDER in the rafters>
+ELDER: The gymnasium should be safe.  Guards never exercise.  Can't afford to
+lose the weight.
+ALICE: I never cared for sports at school... I don't have to put on a pinny, do
+I?
+ELDER: No, it wouldn't suit you.  I've recalled one of the potion's
+ingredients.
+<ELDER pulls out a purple mushroom>  
+ELDER: Mushrooms...  Lovely texture.
+<ELDER looks downward>
+ELDER: What's that?
+<camera pans downward to show 2 boojums flying through the hole in the gym
+floor>
+<ELDER disappears in a whirl of sparkles>
+
+<after ALICE kills the 2 boojums in the gym>
+<ELDER materializes in a lab where thing are bubbling>
+
+<<CHESHIRE Cat hint in garden, before ALICE obtains the Jumbo Grow>>
+CHESHIRE: Nature has ordained that certain seeds require assistance to fulfill
+their destiny.
+
+<<CHESHIRE Cat hint in laboratory>>
+CHESHIRE: Gardners store rat poison and weed killer in sheds. Skools have
+laboratories for that purpose.
+
+<after ALICE enters lab and kills the two Card Guards attacking the ELDER>
+ALICE: You're fortunate I passed by.
+ELDER: Meaning what?  I was about to say that you're lucky to have found me.
+<ELDER reaches into a pocket and pulls out something>
+ELDER: Look, I found the last ingredient. Sugared spice drops...
+ALICE: Whenever we meet up, seems I also find a bit more trouble.  Seen any
+Jumbo Grow, about?
+<ELDER looks over to the side and ALICE looks in the same direction>
+<cabinet doors open showing a glowing flask>
+ELDER: There's a bit in that flask on that sideboard.  You see?  We're set. 
+Bring back some poppy blooms and we'll mix up the potion.
+<ELDER disappears in a whirl of sparkles>
+
+<when ALICE approaches indoor garden (after obtaining the Jumbo Grow)>
+<the flask pours out over the glowing spot in the soil bed labelled "Poppy
+Seeds">
+<a large 'lollipop' grows out of the soil>
+
+<when ALICE returns to lab (after obtaining the 'poppy blooms')>
+ELDER: This condenser can mix the potion... doesn't look like it's good for
+much else, though.
+<ELDER gestures>
+ELDER: Now time to leave... but not as you came.  Go by way of the Observatory.
+ This star is for your stellar performance... may open some doors for you.
+<ELDER disappears, leaving behind the star and the potion>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Unplanted seeds dry out and die.
+
+============================================================
+02f - Skool Daze (pt 2)
+------------------------------
+
+<as ALICE enters Observatory doors in library>
+<ALICE stands on elevator platform as the star rises into the air>
+
+<when ALICE uses the eyepiece of the telescope>
+<the globe in the Observatory opens, revealing a green portal>
+<ALICE drinks the potion and jumps into the green portal>
+
+============================================================
+03a - Pool of Tears
+------------------------------
+
+<camera pans down a steep cliff as bugs throw a large rock down and White
+RABBIT runs up a path along the cliff face>
+
+<<CHESHIRE Cat Hint at starting point>>
+CHESHIRE: Rabbit's anxiety pollutes his reasoning. He begs you back to this
+hell-hole, then abandons you. Stop looking for good sense here. Settle for any!
+
+<<CHESHIRE Cat Hint at the first bend of cliff path>>
+CHESHIRE: A rope and net would be handy. And a circus career. Your limbs and
+imagination will have to suffice.
+
+<when ALICE passes the waterfall the second time, a Soldier Ant pushes a
+boulder down the cliff path>
+
+<<CHESHIRE Cat Hint after the ant pushes the first boulder>>
+CHESHIRE: Take the high ground, then punish these pests. 
+
+<when ALICE passes the waterfall the third time, another Soldier Ant pushes
+boulder over the edge>
+
+<when ALICE approaches the sobbing Mock TURTLE who stands on the edge of the
+pool (which contains a giant statue of a weeping Alice>
+ALICE: What's all this then?  Did someone die?  Have you lost your family?
+TURTLE: No, my shell!  The Duchess stole it and tried to eat me for lunch! 
+Nobility must be served, I suppose...
+ALICE: Stop that wailing, won't you?
+TURTLE: You're very cold blooded for a mammal.  I was almost soup!
+ALICE: Tragic, I'm sure, but I'm a bit pressed for time.  Have you seen a
+rabbit?
+TURTLE: Hmm... twitchy nose, shifty eyes... constantly consults his pocket
+watch?  Most peculiar beast.
+ALICE: Well, he's very dear to me.  I must find him.
+TURTLE: Caterpillar could help, I'm quite certain.  He knows everything there
+is to know.
+ALICE: And where does that smushy lay-about hang his hookah these days?
+TURTLE: Since the troubles began, he's in hiding.  I couldn't divulge the
+secret.  I couldn't risk telling you, without... something in return.
+ALICE: Risk nothing, gain nothing.
+TURTLE: His whereabouts, then, for my shell.  The Duchess won't part with it
+willingly.
+ALICE: Then she must do it unwillingly.  I'll teach her manners.
+TURTLE: You are brave.  But I warn you, she treats everything as prey!
+<the Mock TURTLE and ALICE look up as a leaf falls onto the water>
+<Mock TURTLE gets on the leaf and floats away>
+
+<<CHESHIRE Cat Hint after cutscene with TURTLE>>
+CHESHIRE: The dim-witted are not ignorant. Follow Turtle and find nobility, of
+a sort.
+
+<Mock TURTLE glides down a small waterfall and floats ahead of ALICE down
+another larger waterfall>
+
+<after ALICE encounters several thorned roots hanging over the water>
+<the Mock TURTLE runs cross a stone bridge over the water>
+
+<after ALICE jumps off the leaf and runs up the slope>
+<the Mock TURTLE jumps onto another leaf and floats away>
+
+<after ALICE dodges some trumpet-like branches hanging over the water>
+<ALICE goes over a tall waterfall, screaming>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: What a racket! Reminds me of your violin lessons.
+
+CHESHIRE: Plug that noisy orifice before we both go mad.
+
+============================================================
+03b - Hollow Hideaway
+------------------------------
+
+<<CHESHIRE Cat Hint as ALICE approaches the DUCHESS's house>>
+CHESHIRE: There's a distinct whiff of pepper on the wind. The Duchess must be
+nearby.
+
+<as ALICE approaches the Duchess's house>
+<a blue-green lizard with a tool belt walks around the corner>
+BILL: Psst! Over here!
+ALICE: Don't I know you?
+BILL: Bill McGill, at your service.  Call me Larry... Or not.  Have any brandy?
+ALICE: No, I've only my wits.
+BILL: Then you have nothing.  Wits are useless here - everything is down-side
+up!
+ALICE: I must see the Duchess.
+BILL: Impossible.  She only sees those who don't wish to see her.
+ALICE: That's not right.
+BILL: It's perfect.  She's supposed to be hiding from the Red Queen, who wants
+her dead.
+ALICE: Her head?!
+BILL: That, too.  Ruins my home; builds this monstrosity.  She's mad as monkey
+mash and just as tasteless.  Well, never mind.  We'll all perish soon enough. 
+Sure you've no brandy?
+ALICE: I'm here to retrieve the Turtle's shell.  I won't leave without it.
+BILL: Won't you indeed?  Stick your thumb in her eye, what!  Your devoted
+servant, Ma'am, I owe her a bad turn myself.  Follow me.
+<ALICE follows BILL as he climbs the stairs of the house>
+<as they approach its shaking doors, BILL suddenly bolts left out of the way as
+the doors suddenly swing open and ALICE gets sucked inside the house>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: The leaves appear no worse for it.
+
+CHESHIRE: Is our situation not dismal? Wonderland is so discombobulated that
+lady bugs have turned belligerent and enlisted in the Queen's army. Punish
+their conversion.
+
+
+============================================================
+03c - Just Desserts
+------------------------------
+
+<as ALICE grabs the jackbomb off the table>
+<DUCHESS jumps out of the fireplace>
+DUCHESS: Come closer my little chick... Mmmm, properly seasoned, you'd make a
+handsome dish.
+ALICE: I'm not edible.
+DUCHESS: Not a full meal, certainly.  But a light snack, I think!
+ALICE: I'll have the Turtle shell now, you disgusting ogre!
+DUCHESS: Over my dead body!
+ALICE: I'll try to accomodate you!
+
+<when ALICE defeats the DUCHESS>
+<DUCHESS starts sneezing madly until she literally sneezes her brains out, then
+her head explodes>
+<a secret door behind a shelf opens and BILL and Mock TURTLE enter the room>
+BILL: I'll have the leeches in to handle this mess.
+TURTLE: At least my shell's in tolerable condition.
+ALICE: A simple thank-you would have been nice... I've kept my part of the
+bargain, Turtle.
+TURTLE: Fair enough.  I'll take you on a trip.  Hover around my bubbles. 
+Cuddle up to them, never leave them.  You'll muddle through.
+<BILL pulls a lever, opening a hatch>
+<Mock TURTLE jumps through the hatch, followed by ALICE>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Annihilate what threatens to destroy you.
+
+============================================================
+03d - Wholly Morel Ground
+------------------------------
+
+<after ALICE swims through a hole at the bottom of a wall, a giant fish lunges
+up between Mock TURTLE and ALICE>
+
+<after ALICE swims through the hole in the last wall, ALICE swims up toward the
+surface>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Turtle's bubbles are like words to a prophet.
+
+CHESHIRE: His bubbles are to your survival what eyesight is to vision.
+
+============================================================
+04a - Dry Landing
+------------------------------
+
+<ALICE jumps out of the water and lands hard on dry land>
+<as ALICE gets up>
+TURTLE: Finish what you start, please!  Remember, you're just a visitor.  We
+have to live here.
+ALICE: I'm not on holiday.
+TURTLE: And I'm not ungrateful...  You're an honorary reptile!
+ALICE: Lucky me...
+<Mock TURTLE waggles his head and a translucent shell appears on ALICE's back>
+TURTLE: You're think so when you're under water.
+<Mock TURTLE swims away underwater>
+
+<<CHESHIRE Cat Hint at starting point>>
+CHESHIRE: Even pebbles terrorize the tiny. But you must risk them. Caterpillar
+is waiting.
+
+<after ALICE lands on the ledge where White RABBIT waits>
+RABBIT: You've taken your sweet time.
+ALICE: What do you mean?  You're the one who didn't wait!  I have reason...
+RABBIT: Forget reasons, they're useless.  Caterpillar is waiting.
+<ALICE folds her arms>
+ALICE: I remember him well.  Thin-skinned.  Ill-tempered.  Smokes too much.
+Disagreeable smell.  Why do I need him?
+RABBIT: No one's wiser in Wonderland.  Only he knows what you must do to save
+us.  Now, follow closely.  The way is treacherous.  We have so far to go, and
+so little time to get there.
+<White RABBIT runs off>
+
+<<CHESHIRE Cat Hint on ledge with White RABBIT>>
+CHESHIRE: Don't lose him. He's not the brightest star in the galaxy. But he
+shines at one thing.
+
+
+<when ALICE approaches a deep pit>
+<White RABBIT runs off to the left on the opposite side of pit>
+
+<<CHESHIRE Cat Hint near pit after  White RABBIT runs by on other side of pit>>
+CHESHIRE: Don't lose him. He's not the brightest star in the galaxy. But he
+shines at one thing.
+
+============================================================
+04b - Herbaceous Border
+------------------------------
+
+<White RABBIT runs up to ALICE>
+RABBIT: Strange how quiet it is here, now.  I don't like it.  Caterpillar is
+just beyond the clearing, Alice.  Let's sacrifice stealth for speed.
+<White RABBIT runs off>
+<White RABBIT pauses to sniff the air>
+<ALICE follows, then feels the ground rumble>
+<the giant feet of the Mad HATTER appear, shaking the ground with every step>
+<the Mad HATTER's giant foot stomps on the running White RABBIT, then twists,
+grinding the White RABBIT into the dirt>
+<ALICE runs up to the dead, flattened White RABBIT and drops to her knees>
+ALICE: Everyone I love dies violently... unnaturally.  
+<CHESHIRE Cat appears>
+ALICE: I'm cursed.  Why go on?  I'll just hurt others...
+<ALICE drops her head into her hands and sobs>
+CHESHIRE: No time for self-pity.  Evade these savage soldiers and find
+Caterpiller.
+<CHESHIRE Cat vanishes>
+
+<after ALICE goes underground>
+<Mad HATTER jumps on the ground, causing a pathway to collapse>
+
+<Mad HATTER jumps on the ground again, causing another underground path to
+collapse>
+
+<when ALICE approaches chamber with Playing Cards at the far end>
+<camera zooms in on CHESHIRE Cat, sitting next to the cards>
+CHESHIRE: Go with the flow.  Whatever floats will do.
+<CHESHIRE Cat vanishes>
+
+============================================================
+04c - Rolling Stones
+------------------------------
+
+<ladybugs chitter excitedly as an extra-large ladybug flies by, carrying a
+large round rock, escorted by smaller ladybugs>
+<ALICE watches as the round rock drops through the hole>
+<as the rock starts rolling toward her, ALICE turns and runs>
+
+(no dialogue)
+
+============================================================
+04d - Icy Reception
+------------------------------
+
+<when ALICE obtains the Ice Wand>
+CHESHIRE(vo): Withering cold incapacitates an enemy more completely than deep
+wounds.  But winter does not last forever.
+
+<as ALICE exits ice wand area>
+<the round rock rolls into view, then hurtles across the cavern toward the
+tunnel where ALICE stands>
+
+<after ALICE rides air vents out of the caverns>
+<CATERPILLAR sits on a rock, wearing a fez and smoking a hookah>
+CATERPILLAR: Ah Alice... you've returned.
+ALICE: But Rabbit never told me why.. and now he's gone.
+CATERPILLAR: Why? Wonderland is severely damaged.  You must set things right. 
+That's why.
+ALICE: I barely recognize this terrible place.  What is it to me?
+CATERPILLAR: It's home... Well, it could be.  Having lost what you loved, you
+nearly wiped us out.  You've started to rebuild.  Your task, however, and your
+pain are not over.
+ALICE: Why must I suffer...?
+CATERPILLAR: Because your mind is fouled by self-deception.  Even your
+fantasies have fragmented into tortured versions of themselves.  You are
+wracked with guilt because you survived, and you dread the prospect of a life
+alone.
+ALICE: What do you think I must do?
+CATERPILLAR: Destroy the Queen of Hearts.  Wonderland, and your entire world
+can become whole again.  I need to rest now. You need to regain your human
+size.  Grow up, Alice.  Embrace the truth.
+CATERPILLAR: Travel to the Fungiferous Forest, now, and nibble from the
+Mushroom of Life.  Take great care.  The voracious Centipede jealously guards
+it, and rules over waht you require.
+<CATERPILLAR exhales and puffs out a mass of smoke that turns into a green
+portal>
+
+============================================================
+04e - Fungiferous Flora
+------------------------------
+
+<when ALICE picks up the Mirror>
+<ALICE primps herself, then the mirror glows white>
+<ALICE turns invisible>
+
+<after ALICE fights several mushrooms>
+<as ALICE descends tunnel>
+CENTIPEDE: You pathetic and wretched excuse for warriors!  Form a line!
+<ants rush forward>
+<CENTIPEDE rears up>
+CENTIPEDE: Bring the intruder to my den.  I will punish her insolence and
+dispose of her!
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: If your stature were an illness, it seems the Centipede dispenses
+medicine to make you well. 
+
+CHESHIRE: Confidence and rashness are sides of a single coin. Please remember,
+you're about as big as a middling-size garden slug. Until you find the magic
+mushroom, get used to it.
+
+CHESHIRE: I'm afraid I have to expel a rather ferocious hairball. You're on
+your own, girl.
+
+============================================================
+04f - Centipede's Sanctum
+------------------------------
+
+<the mouth of a giant nutcracker-like face opens and closes>
+<ants mill about excitedly as ALICE walks forward>
+<when she pauses at the edge of a steep drop, an ant shoves her and sends her
+sliding downwards and then up into the nutcracker-like mouth>
+<ALICE drops into the CENTIPEDE's den>
+
+<when CENTIPEDE dies, stalactites fall, forming a path to the mushroom>
+
+<when ALICE uses the Grasshopper Tea>
+CHESHIRE: Those who say there's nothing like a nice cup of tea for calming the
+nerves, never had real tea. It's like a syringe of adrenaline straight to the
+heart. 
+
+<as ALICE reaches the mushroom>
+CHESHIRE: I've never trusted toadstools; but I suppose some must have their
+good points.
+ALICE: I wish I were hallucinating.  What a horrible choice.  Eat a toadstool,
+or remain food for insects.
+<ALICE reaches up, pulls off a piece of mushroom, and eats it>
+<as ALICE starts to grow to normal size>
+CHESHIRE: It's rude to eat and run, but sometimes it's unavoidable.
+
+============================================================
+04g - Caterpillar's Plot (pt 1)
+------------------------------
+
+<camera zooms across a barren rocky area with pools of lava to the CHESHIRE
+Cat>
+CHESHIRE: The dimensions of the desolate tract are unknown to all but the
+inhabitants.  Only one path will bring you to the endgame.
+
+<when ALICE obtains the Jabberwock's Eye Staff>
+<CHESHIRE Cat appears on the outer edge of the lava pool>
+CHESHIRE: The Jabberwock's Eye Staff is incomparably powerful.  But its
+individual pieces are worth less than the carcass of a gnat.
+<CHESHIRE Cat vanishes>
+<camera pans across the lava and down the tunnel as the gate blocking the way
+to the ORACLE opens>
+
+<as ALICE approaches an open area with a cave on one side>
+ORACLE(unseen): To destroy the palace, filled with malice, is the daring work
+of noble Alice.
+ORACLE(unseen): An endgame with the Red Queen is possible only after you crush
+her sentinel -- the vile, fiercilicious, and vengeful Jabberwock.  Without the
+Staff that bears his name, destroying him is the hopeless work of a wasted
+life.
+ALICE: I have one piece of the Eye Staff.  Where are the others?
+ORACLE(unseen): Scattered throughout the world.  When you have them all in
+hand, checkmate is possible.  The pale royals may be of use.
+ALICE: Obscure allusions to chess are fine, but it troubles me that anonymous
+oracles know more of my business than I do.
+<camera shows the gate in the white castle opening, allowing access to a green
+portal>
+
+<as ALICE approaches top of the slope of blocks>
+CHESHIRE: Since you know the moves, best play with whites.  They go first.
+ALICE: Such order in the midst of chaos makes me woozy and disoriented.
+CHESHIRE: The regularity of the board disguises the predatory menace of certain
+pieces.
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Flattering words often incite their object to rash action. Learn
+their true meaning. 
+
+CHESHIRE: Cats are color blind, you know. Kaleidoscopes hold no interest for
+us.
+
+CHESHIRE: These woods are familiar. The voice from the cliff, remember? Wonder
+if he's done a bunk by now.
+
+============================================================
+05a - Pale Realm
+------------------------------
+
+<closeup of a pale clock with its hands moving>
+<camera pans through a pale city>
+<a door opens and a white rook emerges and stands guard at the closed door>
+
+<when ALICE approaches the white bishop>
+<ALICE and the white bishop exchange looks, then the white bishop moves aside>
+<ALICE steps into the narrow alleyway, then turns into a white bishop>
+
+<when ALICE pulls the switch on balcony, a bell tolls, the door guarded by the
+white rook opens and the white rook goes inside>
+
+<when ALICE approaches the white knight>
+<the white knight moves aside>
+<ALICE enters the area and turns into a white knight>
+
+<when ALICE pulls the switch inside the tower room>
+<camera shows the water wheel turning and the water level rising>
+
+<when ALICE approaches the palace of the white chess pieces>
+<the double doors open and a group of red chess pieces emerge>
+<two red knights stand guard as two red rooks drag the White Queen away onto a
+suspended platform which departs the area>
+
+<when ALICE approaches the White King>
+<the White King looks at the green orb in his hand, then glides down the steps
+to meet ALICE>
+WHITE KING: Help us, please. The Red Queen's forces are strong and show no
+mercy.  Our own queen is in terrible danger.
+ALICE: I saw her captured.  I'm sorry.
+WHITE KING: Without her generalship, red wins.  We're doomed.
+ALICE: As am I, if I can't pass through this realm.  I must collect the pieces
+to the Jabberwock's Eye Staff.
+WHITE KING: Free the White Queen, Alice.  That will help us both.
+ALICE: I'm not really a player.  What are the rules?
+WHITE KING: Rules?  There are no rules.  There's barely any strategy.  No time!
+ Make a frontal assault on the Red Castle.  I won't lie to you.  You'll meet
+deadly traps and fierce opposition along the way.
+ALICE: Should I be grateful for the truth?  A lie or two might have been more
+persuasive.
+WHITE KING: In war: truth first.  There's always time for lies later.  You
+won't face the enemy alone.  Carry this soldier to the White Queen.
+<a white pawn glides forward, then shrinks>
+<ALICE picks up the now pocket-sized white pawn>
+ALICE: A mere pawn is the best I can hope for?
+WHITE KING: I'm afraid so.  Now, return as you came.  The rooks know the way.
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Make your move toward the White Knight's Castle.
+
+CHESHIRE: You know all the right moves. Use them.
+
+============================================================
+05b - Castling
+------------------------------
+
+<when ALICE enters a narrow hallway with windows>
+<camera shows the White Queen bound and struggling on a guillotine>
+<the guillotine blade rises, then locks into place as the Red King watches>
+<the White Queen continues to struggle against her bonds>
+<the Red King swings his specter>
+<the blade falls, decapitating the White Queen>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: The White Queen awaits. You control her fate.
+
+============================================================
+05c - Checkmate in Red
+------------------------------
+
+<when ALICE steps onto the checkerboard platform>
+<ALICE turns to watch the drawbridge lift, trapping her on the platform>
+<the Red King materializes in front of ALICE>
+
+<when ALICE kills the Red King>
+<a floating platform with columns and arches settles on the checkerboard>
+<ALICE climbs the steps onto the platform>
+<ALICE places the shrunken pawn on the large white square>
+<the white pawn grows to full size, shrinks back down again, then turns into a
+full-sized White Queen>
+<a group of red chess pieces appear>
+<the red chess pieces move forward and the White Queen advances to meet them>
+<as ALICE watches, the Mad HATTER appears behind her and knocks her out with a
+backward swipe of his hand>
+
+<camera pans back to show a chandelier and a strange painting of a man in a top
+hat>
+<camera pans back further to show ALICE laying on an ornate table>
+
+============================================================
+05d - Mirror Image
+------------------------------
+
+<closeup of a strange painting of a man in a top hat>
+<camera shows Alice lying on an ornate table>
+<a twitching insane child looks up at the clock in its padded cell as the clock
+face breaks>
+<in a control room, TWEEDLE-DUM watches one clock (out of several on the wall)
+break>
+<TWEEDLE-DUM turns around with a scowl on his face>
+<camera shows ALICE lying on an ornate table>
+<camera suddenly rotates 90 degrees to show that the table is actually hanging
+on the wall and that the everything around her (floor, ceiling, walls) are all
+rotated 90 degrees to the side>
+<several insane children wander or run around>
+<CHESHIRE Cat appears>
+CHESHIRE: Look straight ahead; or askance.  Whichever way you choose, you must
+always look in the right direction>
+<ALICE drops to the wall-now-floor>
+
+<<CHESHIRE Cat Hint in mirror maze>>
+CHESHIRE: Paths that end in trouble are all the same. They only appear
+different when you don't know where they lead.
+
+<when ALICE obtains the Jacks>
+CHESHIRE(vo): This simple game can turn distinctly nasty.  Don't ever play
+alone.
+
+<<CHESHIRE Cat Hint in the asylum cell area>>
+CHESHIRE: Seek and ye shall find, they say. But they don't say what you'll
+find. 
+
+<when ALICE destroys all the clocks>
+<camera shows steam escaping a large pipe>
+<the large pipe explodes, breaking down a set of doors>
+
+<<CHESHIRE Cat Hint in tilting platform area>>
+CHESHIRE: Don't get spun, whirled, twisted, gyrated, sloshed, or tossed. Avoid
+false moves.
+
+<when ALICE enters brown double doors>
+TWEEDLE-DEE: Look, Dum, it's whatshername, from the Neurotics' Ward.  Nurse's
+favorite lunatic.
+TWEEDLE-DUM: Oh yeah?  Scrawny, ain't she?  Who let her out, then?  They'll
+blame us, most like.
+TWEEDLE-DEE: She'll need more medicine.  Strong medicine.
+TWEEDLE-DUM: She got anything to eat?
+TWEEDLE-DEE: Doubt it.  She never finishes her grub at the asylum.  She had any
+meat on her, she'd make a delectable dish.
+<CHESHIRE Cat sits beside ALICE>
+ALICE: Despicable, grotesque, and smelly louts; I'll fill your bellies,
+alright!
+CHESHIRE: The bigger they are, the harder they fall.
+ALICE: Spare me the platitude.  Do you have any useful advice?
+CHESHIRE: Use their size against them.
+
+<after ALICE kills TWEEDLE-DEE and TWEEDLE-DUM>
+<camera zooms in on the Mad HATTER>
+HATTER: Bad timing.  Pity.  Reliable help is so hard to find these days.  Come
+in my dear.  You're just in time for tea.
+<camera zooms in on ALICE>
+ALICE: I only take mine with friends.
+<the Mad HATTER stands on the upper walkway in control room, looking down at
+ALICE>
+HATTER: Count me to be among them.  Accurately.  I mean, honestly.  That's the
+truth.  Oh, I quite forgot.  You and the truth are not on familiar terms.
+ALICE: And you would know!
+HATTER: Truth is always bitter to those who fear it.
+ALICE: I fear nothing.
+HATTER: False.  You fear much... a return trip to the asylum, for example...
+the memories that drove you there... more years in, shall we say, supervised
+hospitalization... ah yes, you fear much.  Of course, all that might be
+avoided.
+ALICE: How?  Tell me.  What do you mean?
+<the floor under ALICE's feet crumbles away and she tumbles downward,
+screaming> 
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Seek the scattered pieces of the Eye Staff, Alice. I feel its power
+here.
+
+CHESHIRE: Each piece brings you closer to the endgame. But alone, each is worth
+less than a matchstick.
+
+============================================================
+06a - Crazed Clockwork
+------------------------------
+
+<when ALICE approaches the clocks floating in mercury>
+<CHESHIRE Cat appears on one of the clocks>
+CHESHIRE: A reflection sometimes exposes more reality than the object it
+echoes.
+<CHESHIRE Cat vanishes>
+
+<when ALICE enters the Mad HATTER's lab as equipment rumbles and electricity
+crackles>
+<ALICE watches as a giant pair of tongs picks up an insane child, drops it onto
+a conveyor which pulls the child into the neighboring machine>
+<mechanical parts get dropped into the top of the machine>
+HARE: Dormy, wake up.  Someone's come to release us.
+<the multilated, half-mechanical HARE is strapped to a vertical board>
+<camera pans to DORMOUSE, also now half-mechanical, lies strapped to a table,
+metal limbs twitching uselessly>
+DORMOUSE: It's just a human.  Probably useless.
+HARE: Undo us, please, from this contraption.
+DORMOUSE: Or you can give us tea, if you prefer.
+ALICE: Were you impolite at table?  Did you slurp your tea? Or talk while
+chewing?  Confess your crime.
+<camera pans around ALICE as she stares up at the machine the insane child was
+dropped into>
+<closeup of HARE>
+HARE: We've done nothing of the kind.  It's the Hatter.  He's gone quite mad,
+if I do say so.  Speaking of which, how is the Queen of Hearts not like a
+typhoon?
+<ALICE still stares at the machine>
+ALICE: Both are powerful, destructive, and indiscriminately cruel.  But the
+typhoon doesn't mean to be.
+HARE: Good answer.  Wrong, but good.
+<ALICE walks away from the machine (and its conveyor belt) and approaches
+DORMOUSE>
+ALICE: Oh, I beg your pardon.  You are in real danger.  Where is your host?
+DORMOUSE: Real danger? Are we?  Really?  Hare, I wish to go home. 
+<in the background, a robot rolls off the machine's conveyor belt and drops out
+of sight>
+DORMOUSE: Evidently I have worn out my welcome.
+<ALICE walks over to HARE>
+HARE: The Hatter will be here at 6. Sharp as clockwork.
+<camera pulls back to show the switch between HARE and DORMOUSE>
+DORMOUSE: Misses no opportunity to deny us our tea.  Most cruel, I'm sure.  And
+his medicine makes me tired...
+
+<when ALICE pulls the switch>
+<camera zooms in as a barred gate lifts>
+<camera pans by the Mad HATTER, who makes an annoyed sound, then hits a giant
+key which spins, then drops into a slot into the floor>
+
+<back in the lab, HARE gets repeatedly dunked into a vat of liquid, pulled out,
+then shocked, while an electrode repeatedly lowers and zaps DORMOUSE>
+
+<when ALICE approaches the slot in the floor and the newly opened door behind
+it>
+<CHESHIRE Cat appears>
+CHESHIRE: Quick as Mercury: and mad from it... among other things.  He is
+obsessed with time.  Find him.  Or your own time may be short.
+<CHESHIRE Cat disappears>
+
+<when ALICE opens door to GRYPHON's prison cage>
+ALICE: Those two seem to barely comprehend their situation.
+GRYPHON: They're blithering idiots.  But the Hatter does come at 6 on the dot.
+ALICE: For his tea?
+GRYPHON: No.  To check his cruel experiements.  With gears, springs, levers,
+and mechanical gizzards, he seeks an impossible precision like a watchmaker
+obsessed with infinitesimal fractions of seconds, or a mathematician who tries
+to square the circle.  He'll turn all the inhabitants into his automatons, or
+kill them in the attempt.
+ALICE: That's simply awful.  6 o'clock, you say?
+GRYPHON: 6 precisely, by that clock.
+ALICE: Hmm... Perhaps 6 comes early today.
+
+<after sinking the 4 sugar cubes and pulling the switch>
+<the clock hands advance to 6 o'clock>
+<in the GRYPHON's prison, the clock in the floor shows 6 o'clock>
+<the door behind ALICE opens to show a green portal>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Even I know not where the missing piece of the Eye Staff is
+concealed. But if a segment were secreted amidst evil and madness, I would
+expect to find it here.
+
+============================================================
+06b - About Face
+------------------------------
+
+<when ALICE obtains the next part of Jabberwock's Eye Staff>
+<CHESHIRE Cat appears>
+CHESHIRE: The Staff lacks only the Jabberwock's eye.  Through he has two, I
+understand he's quite fond of them both.  I doublt time will change his mind. 
+Speaking of which, where is the Hatter?
+<CHESHIRE Cat vanishes>
+<Mad HATTER appears>
+
+<when ALICE kills the Mad HATTER>
+<Mad HATTER stiffens, mechanical parts fall from his hat, then his head
+explodes and Mad HATTER topples to the ground>
+
+<when ALICE obtains the Deadtime Watch>
+<CHESHIRE Cat appears>
+CHESHIRE: This unique watch stops time... for a time.  Unlike death... time
+moves on.  Those who stood still with time move on also... unless they're dead.
+<CHESHIRE Cat vanishes>
+
+<when ALICE enters the green portal>
+<camera shows the GRYPHON's cage opening>
+<GRYPHON lands in front of ALICE>
+GRYPHON: With gratitude, I offer you my services.
+ALICE: Promise only what you're prepared to deliver.
+<ALICE gestures to herself>
+ALICE:  I am destined to battle the Red Queen.  The outcome is uncertain.
+GRYPHON: You won't fight alone.  Permit me to serve as your commander.  I'll
+muster the forces whose allegiance your courage and skill have already won.
+ALICE: How shall we prepare for battle?
+GRYPHON: An assault on the Queen depends on breaching the gates to her kingdom.
+ Only the Jabberwock's Eye Staff can pry them open. If you open the gates, I'll
+lead the troups to victory.  Let us right the wrongs of this world, together.
+<ALICE gets on the GRYPHON's back and they take to the air>
+<GRYPHON pauses at the roof of the chamber, releases a burst of blue flame
+which smashes the roof open, and they fly away>
+
+============================================================
+07a - Burning Curiosity
+------------------------------
+
+<GRYPHON and ALICE fly over a rocky lava-riddled landscape>
+<both ALICE and GRYPHON are on the ground>
+GRYPHON: Recruit whatever allies you can, Alice.  We'll need them all.  I'll
+return with reinforcements.  Take heart.
+<GRYPHON flies away, leaving ALICE on the ground>
+
+<when ALICE approaches a shaft of light in the rocky tunnel>
+<camera zooms in on a cave>
+ORACLE(unseen): The time of action has arrived.  You should not waste a day. 
+No lame excueses do you contrive, nor tolerate delay.
+<CHESHIRE Cat appears beside ALICE>
+ALICE: It talks like I'm on holiday, Cat.  Wandering about, having a bit of
+fun.  The oracle's an idiot.
+CHESHIRE: Confront what frightens or offends you.  Reckless or insulting talk
+should never go unchallenged.
+<CATERPILLAR emerges from cave, complete with fez and hookah>
+ALICE: You?  Bizarre creature!  I was beginning to like you.
+CATERPILLAR: Like me or don't.  But believe me.  The Jabberwock must be
+eliminated -- now.  Blow open the gates and confront the Queen.
+ALICE: I don't have the final piece of the Staff.  Without his eye, how can it
+be done?
+CATERPILLAR: I don't know.  But you must.  The situation is urgent.
+ALICE: What good are you to me?  I'm supposed to attack this ferocious
+creature; but I'm not even sure this is my fight.
+CATERPILLAR: It's no one else's, Alice.  Only you can save yourself.
+ALICE: Save myself?  From death?  Is that it?  Is that why I've come here?  I'm
+not afraid to die.  'times I've welcomed death.
+CATERPILLAR: Not death.
+ALICE: What then?  A fate worse than death?  I'm not stupid.  Don't make me
+think you are.
+CATERPILLAR: Think what you will.  But know this.  You withdrew from your world
+after the fire because you could not bear your terrible loss.  When you
+answered Rabbit's call, you began to emerge from your tragedy.  Stay on this
+path, Alice.  Save yourself, and you will save Wonderland.  You will restore us
+all.
+ALICE: What I've been feeling, I am beginning to understand.  I broke this
+world; and only I can repair it.
+CATERPILLAR: Go well, Alice.  The Jabberwock waits.  With Gryphon as your
+partner, you have reason to hope for success.  He's the strongest among us.
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Gryphon's an ideal partner. Perhaps I'll just retreat for a nap
+
+CHESHIRE: The Queen's guardian rarely leaves his filthy lair.
+
+============================================================
+07b - Jabberwock's Lair
+------------------------------
+
+JABBERWOCK: You've kept me waiting, Alice.  Have you never heard that
+punctuality's a virtue?
+<JABBERWOCK and ALICE stand on a platform suspended over a gaping void and
+circled by burning walls>
+ALICE: You and my dentist's assistant have much in common.
+<JABBERWOCK prowls around the platform>
+JABBERWOCK: You're habitually late, aren't you?  Between your dim-witted
+daydreaming and your preening vanity, the hours just fly by; there's barely
+time for anything else.
+ALICE: That the best you can do?  Hurl second-rate insults?  They don't hurt...
+JABBERWOCK: Your family was expecting you to come to them, weren't they? 
+Perhaps they thought you might warn them of the danger... being close to the
+source, as you were.  But they waited in vain, didn't they, and died for their
+trouble.
+ALICE: We were all asleep.  It was an accident... I...
+JABBERWOCK: You selfish, misbegotten, and unnatural child!  You smelled the
+smoke.  But you were in dreamland taking tea with your friends.  You couldn't
+be bothered.  Your room was protected and spared -- while your family upstairs
+roasted in an inferno of incredible horror.
+ALICE: (wail) Noooooooooooooooo...
+
+<when ALICE inflicts enough damage to JABBERWOCK>
+<JABBERWOCK knocks ALICE to the floor with a swipe>
+<as JABBERWOCK stalks toward helpess ALICE, GRYPHON suddenly flies in and
+attacks, ripping out one of JABBERWOCK's eyes in a spray of blood>
+<JABBERWOCK quickly flies away and escapes>
+<GRYPHON stands in front of ALICE as the JABBERWOCK's eye floats nearby>
+GRYPHON: Hurry, Alice.  The Eye Staff is yours.  The troops are gathered,
+everything is ready.  I'll deal with the Jabberwock.  You are our champion. 
+Lead us to victory in Queensland.
+<GRYPHON flies away>
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: The vile creature is a killer. And even his words can wound.
+
+CHESHIRE: It's impolite to keep royalty waiting. But the price of good manners
+may be too high. This Queen's a real bitch.
+
+============================================================
+07c - Caterpillar's Plot (pt 2)
+------------------------------
+
+<when ALICE obtains the Blunderbuss>
+CHESHIRE: A blunderbuss in the hands of a blockhead, is a catastrophe waiting
+to happen.  You're not a bunderhead, but exercise great care.
+
+<when ALICE approaches the rippling wall>
+GRYPHON(vo): ...only the Jabberwock's Eye Staff can pry them open...
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: You may have missed something. What's rubbish to one is salvation to
+another.
+
+CHESHIRE: Look, Alice. Though his elliptical essence is unrecognizable, it's
+wrong to think him worthless.
+
+============================================================
+08a - Majestic Maze
+------------------------------
+
+<<CHESHIRE Cat Hint at starting point>>
+CHESHIRE: Find the Queen. Ignore her pledge to decapitate intruders, at your
+peril. 
+
+(no dialogue)
+
+============================================================
+08b - Airborne Terror
+
+<camera pans across tall chamber, then zooms in on CHESHIRE Cat>
+CHESHIRE: Ride the thermal drafts like a gyrfalcon.
+<CHESHIRE Cat vanishes>
+
+============================================================
+08c - Mystifying Madness
+------------------------------
+
+<<CHESHIRE Cat Hint at starting point>>
+CHESHIRE: The Queen. The Queen. My lower incisors for the Queen. Where is that
+wretched creature?
+
+<when ALICE pulls switch>
+<camera pans through a large pipe, around two bends, to show an opening gate
+with a heart-shaped Meta-Essence crystal beyond>
+
+<when ALICE steps on platform under a glowing heart>
+<camera shows the gates blocking the green portal opening>
+
+============================================================
+08d - Water Logged
+------------------------------
+
+<camera zooms in on CHESHIRE Cat, sitting on a ledge in front of a pipe lid>
+CHESHIRE: Turtle proved that being a reptile has advantages.
+
+============================================================
+08e - Labyrinthine Revenge
+------------------------------
+
+(no dialogue)
+
+--------------------
+<<CHESHIRE Cat Hints - location unknown>>
+
+CHESHIRE: Look for the Queen, but remember: She also has eyes for you.
+
+============================================================
+08f - Machinations
+------------------------------
+
+<camera zooms in on CHESHIRE Cat in room full of moving gears>
+CHESHIRE: Time to jump in time to jump through time... I'm dizzy.
+
+============================================================
+09a - Royal Rage
+------------------------------
+
+<camera pans by ALICE>
+<GRYPHON and JABBERWOCK face off>
+<GRYPHON engages in aerial combat until JABBERWOCK lands a fatal blow which
+knocks GRYPHON to the ground>
+<GRYPHON lands an a green slab of rock in the middle of a rock platform>
+<JABBERWOCK flies over and destroys the wooden bridge off the platform, then
+lands to taunt ALICE>
+JABBERWOCK: How typical.  How foolish you were to think you could overcome your
+guilt.
+
+<after JABBERWOCK topples over dead>
+<ALICE knees beside the mortally wounded GRYPHON>
+GRYPHON: You've destroyed her guardian, Alice, and avenged my death.  Enter the
+ultimate battle.
+ALICE: Must I fight on?  Can't the Red Queen be persuaded to surrender?
+GRYPHON: True words and logic rarely defeat evil intent.  She is still strong. 
+And so many have been harmed.  They want revenge, which we call justice.  She
+made this world, and she must pay.  You must lead our forces against her.
+ALICE: I'm not sure I know how to lead.
+GRYPHON: Do your best, Alice.  You can only do your best.  You can always do...
+best.
+<GRYPHON dies>
+<ALICE sobs in grief>
+
+<after the drawbridge lowers>
+<CHESHIRE Cat appears>
+CHESHIRE: Without Gryphon, our forces are leaderless and a battle has begun. 
+Deliver from this evil, or let us perish.
+
+<when ALICE approaches the castle gates>
+<a dead Card Guard falls in front of the gate from above>
+
+============================================================
+09b - Battle Royale
+------------------------------
+
+<ALICE runs along a narrow rock path above lava>
+<the path crumbles, cutting off the way be>
+<ALICE looks down a long lava-filled valley and the narrow zig-zag rock path
+above the lava>
+<a white pawn flies off the castle wall into the lava>
+<scene of white chess pieces fighting with Card Guards>
+
+(no dialogue)
+
+============================================================
+09c - Ascension
+------------------------------
+
+<when ALICE steps on brown platform>
+<camera shows the platform rising up a long spiralling shaft>
+
+(no dialogue)
+
+============================================================
+09d - Castle Keep
+------------------------------
+
+<ALICE and the platform reach the top of the shaft>
+<CHESHIRE Cat appears>
+CHESHIRE: The Queen.  The Queen.  My lower incisors for the Queen.  Where is
+that wretched creature?
+<as CHESHIRE Cat walks off, it vanishes>
+
+<when ALICE approaches the switch overlooking the mirror and portraits>
+CHESHIRE: Only a few find the way; some don't recognize it when they do, some
+don't ever want to.
+
+<when ALICE pulls the switch, the heart-shaped mirror rotates to point to a
+portrait>
+
+<after ALICE destroys the pictures of the TWEEDLE Twins, the Mad HATTER and the
+JABBERWOCK, the exit doors open>
+
+<when ALICE approaches the large bronze doors>
+<CHESHIRE Cat appears and walks toward ALICE>
+CHESHIRE: Bravery and I are not on intimate terms.
+<CHESHIRE Cat turns around and sits down in front of ALICE>
+CHESHIRE: My natural curiosity is tempered with caution -- thus I've lived
+long.
+<CHESHIRE Cat vanishes, then reappears to ALICE's left>
+CHESHIRE: But now, ignoring my instinct to flee or fib, I speak the truth
+without regard to consequences.  Your courage deserves no less.
+<CHESHIRE Cat vanishes, then reappears to ALICE's right>
+CHESHIRE: You have suffered great pain and you've caused some. You've endured
+deep grief and feelings of guilt.  
+<the doors behind CHESHIRE Cat slowly open>
+CHESHIRE: But you will be tested by a more wrenching anguish, Alice.  There is
+worse to come.  You and the Red Queen cannot both survive.  You are two parts
+of the same...
+<something long and red slams into CHESHIRE Cat, decapitating him>
+<ALICE stares blankly as the CHESHIRE Cat's head lands near her feet, then
+drops to her knees shaking her head, then buries her face in her hands and
+starts weeping>
+ALICE: (wail) Noooooooooooooooo...
+
+============================================================
+09e - Heart of Darkness
+------------------------------
+
+<camera pans by ALICE as she advances toward the Red Queen on her throne>
+ALICE(vo): Who am I?
+<the monstrous RED QUEEN leans foward>
+RED QUEEN: Off with her head!
+<RED QUEEN's mask falls off as she rises off her throne>
+<camera pulls back, showing the RED QUEEN as a puppet-like figure on the end of
+a massive tentacle>
+<part of the throne room floor collapses, separating ALICE and the RED QUEEN>
+
+<when ALICE inflicts enough damage on the RED QUEEN>
+<the RED QUEEN goes limp as the big tentacle thrashes wildly, then sags to the
+ground>
+<ALICE approaches the RED QUEEN>
+<blue-white sparks leap from the RED QUEEN toward ALICE>
+<ALICE is enveloped in a glowing armor-like aura and a circling spark>
+<the big tentacle suddenly pulls back and disappears into the hole in the
+throne>
+<something shoots out of the hole, knocking ALICE to the ground>
+<a hideous skull-like head with glowing eyes emerges from the throne>
+<the skull-like head's mouth opens wide, exposing the Mad HATTER's face>
+<the Mad HATTER's mouth opens exposing ALICE's own face>
+RED QUEEN: I rule Wonderland alone.  Your interference will not be tolerated. 
+This realm is for grown-ups; raw, well-ordered, ruthless, careening on the
+jagged edge of reality.  Self-pitying dreamers are not wanted here.  
+<ALICE sags to her knees>
+RED QUEEN: They cannot survive here.
+<closeup of the triple-faced RED QUEEN>
+RED QUEEN: You fear the truth.  You live in shadows.  Your pathetic attempts to
+reclaim your sanity have failed.
+<closeup of ALICE sobbing, her face buried in her hands and shaking her head>
+RED QUEEN: Retreat to the sterile safety of your self-delusions, or risk
+inevitable annihilation.
+RED QUEEN: If you destroy me, you destroy yourself!  Leave now and some hollow
+part of you may survive.  Stay, and I will break you down; you will lose
+yourself forever.
+<RED QUEEN withdrawns into the hole in the throne>
+<ALICE rises to her feet, looks away briefly, then looks up and runs forward>
+<closeup of the giant tentacled 2nd form of the RED QUEEN in a black void,
+surrounded by a ring of rock islands>
+
+<when ALICE kills the 2nd form of the RED QUEEN>
+<the RED QUEEN's body goes limp, then twitches and thrashes before exploding>
+<a brilliant white glow envelopes ALICE>
+<a shockwave expands from ALICE, turning the barren rock to green grass>
+<the Land of Brimstone (where ALICE obtained the Jabberwock's Eye Staff) turns
+into a lush green landscape with water and blue skies as the GRYPHON soars by>
+<in the Pale Realm, the sky turns blue and the white chess pieces, including
+the White King and White Queen, appear>
+<in the foggy Pool of Tears, the giant weeping statue of ALICE transforms into
+a normal smiling Alice, the skies turn blue, and the camera pans by a live (and
+healthier looking) White RABBIT as BILL stands near ALICE's statue>
+<in the Gnomes' town, the green slime turns to clear water and lights brighten
+as the camera pans by the CHESHIRE Cat, the ELDER, and the Gnomes (now standing
+straight, relieved of their locks and glowing rocks)>
+<ALICE stands on green grass, surrounded by the CHESHIRE Cat, White RABBIT, Mad
+HATTER, CATERPILLAR, Mock TURTLE, BILL, and two Card Guards>
+<scene changes to a book illustration version of the group picture>
+<camera pans up the book page to show the chapter title "XII - HAPPLILY EVER
+AFTER">
+<camera pans down book page to show the following text>
+"YEA, ALICE! You've saved us!"
+And she had done more than that, she knew...
+She had saved -herself- as well.
+THE END
+<camera pulls back as ALICE closes the book, her eyes closed and her mouth
+smiling as the sun shines down on her>
+<holding the book in her left arm, ALICE bends down and scoops up the black cat
+beside her with her right arm>
+<ALICE tucks the book under her left arm, picks up the suitcase beside her, and
+walks purposefully out of the Rutledge Asylum>
+
+============================================================
+9: Cheshire Cat Random Hint Dialogue
+
+If there isn't a hint specifically assigned to a given location, using the
+Cheshire Cat help key will cause the Cheshire Cat to appear and offer a random
+comment from the following list.
+
+---------------
+
+CHESHIRE: Every adventure requires a first step. Trite, but true, even here.
+
+CHESHIRE: When the remarkable turns bizarre, reason turns rancid.
+
+CHESHIRE: What is sought is most often found... if it is truly sought.
+
+CHESHIRE: Only a few find the way; some don't recognize it when they do; some
+don't ever want to. 
+
+CHESHIRE: There's an ugly name for those who do things the hard way.
+
+CHESHIRE: The uninformed must improve their deficit, or die. 
+
+CHESHIRE: To the royal guards of this realm, we are all victims in-waiting.
+
+CHESHIRE: Only the foolish believe suffering is just wages for being different.
+
+
+CHESHIRE: Only the savage regard the endurance of pain as the measure of worth.
+
+CHESHIRE: Only the insane equate pain with success. 
+
+CHESHIRE: Tell yourself, I've seen worse at Rutledge's. Prevarication, in this
+instance, may help.
+
+============================================================
+10: Background Story
+
+The game manual for "American McGee's Alice" contains some very interesting
+background for the in-game story.
+
+The following transcription of the relevant portions of the game manual is
+courtesy of Odd Magne Granli (aka Lsnake/Engelen), who gave his kind permission
+to include his hard work in this script.
+
+This information is taken essentially verbatim (except for a few minor spelling
+corrections) from Lsnake's excellent walkthrough for this game.
+
+--------------------------------
+
+In order to understand the story of Alice, you should read the manual. If you
+don't have it anymore, I decided to write down the whole piece because I
+honestly think it's VERY important to understanding the story. So enjoy!
+
+A little explanation about the Background Story. It is the diary of the person
+who tries to reach out to Alice and cure her, and the person often leaves
+another note years afterwards. (Marked with the " " and the date)
+
++------------------+
+| Background Story |
++------------------+
+
+---------------
+4 November 1864
+---------------
+
+Received Confirmation from the superintendent that I will be given the
+opportunity to treat a very troubled and difficult patient. Dubious Honour! Her
+name is Alice, and her prognosis is not promising. After looking at her file,
+I'm astonished she has survived this long. She has been nearly comatose for a
+year.
+
+"Would I have admitted her had I known then what I know now?" -3/10/73
+ 
+----------------
+11 November 1864
+----------------
+
+Mute on a stretcher, with her head curiously bandaged, Alice seems to cling
+precariously to life. Her burns have healed remarkably in the year since the
+fire, but she languishes in a deep trance-like dementia. It's as if the blaze
+consumed her senses wholesale. Deaf, dumb and blind to all stimulation, she's a
+fair match for the infirmary's gloom. In a frenzied instant, a cankered feline
+pounced on Alice while she was about to be carried inside. Startled by the
+cat's yowl, the bearers lost their grip and dropped the wretched girl to the
+ground. Most curious to behold, the cat stood atop Alice as if claiming
+territorial right, or as if defending a rodent captured in the day's hunt from
+other hungry predators. Only when an orderly threatened it with a stick did the
+creature scamper into a nearby hedge. Even then the cat crouched beneath the
+shrubbery. With eyes agape, it fixed on Alice as if it had some vital interest
+in our proceedings.
+
+"It pays to heed the feline--something I've learned over the years." -21/10/73
+
+---------------- 
+14 November 1864 
+----------------
+
+Her one possession is a toy--a sooty, stuffed rabbit whose single button-eye
+dangles from a loose thread. Plaything from her time of innocence, and her only
+link to life before the fire, the rabbit is now sentinel to Alice's deepening
+Ddementia.
+
+"The rabbit may prove a valuable instrument for shock therapy. I should have
+noticed it sooner" -21/10/73
+
+----------------
+8 December 1864
+----------------
+
+When I hold a flame to her eye, nothing in her vacuous gaze berrays the
+faintest glimmer of response. I clap a pair of blocks at her ear. Nothing.
+Neither her sight nor her hearing appear to be damage, still she registers
+nothing at all. The rumour (passed on by Reverend Mottle amongst others)
+alleges that she feels nothing--not pain, or fear or other torments--is neither
+credible nor kind. Still, she is far, far gone, this one.
+
+----------------
+10 December 1864
+----------------
+
+Though she appears weak, she must have a strong constitution to have survived
+until now. Her fever persists, her breathing heaves violently at times and,
+even after more than a year of healing, burns so massive commonly cause great
+discomfort. You'd never imagine she's in any distress, though, the way lies
+there, as lifeless as a British Museum mummy. I daresay, however, that I'll
+stir her from her dreamery, even if the response is involuntary. I'll begin
+tomorrow with a steady treatment of cold plasters and bloodletting. The
+bleeding might cause some relief to her dementia. I also have a new shock
+apparatus that I'd like to try on her. I'm curious to see how she reacts to
+this treatment.
+
+----------------
+6 January 1865
+----------------
+
+Another patient died in the night. I'd been treating her with the same potion I
+intend for Alice. I had been quite certain she was improving with each
+subsequent vial, so this development is quite vexing. Perhaps the stronger
+mixture was too much for her chronically weak chest. A little more
+experimentation is in order before I feed this serum to Alice.
+
+"A little less laudanum and a little more camphor might have spared her"
+-13/12/73
+
+----------------
+23 February 1865
+----------------
+
+Through the windows of my laboratory, I can glimpse the garden ward. Nurse D-
+is leading a group of children to the airing room. I listen to great shuffling
+of feet on the pebble path. Will Alice, I wonder, ever stroll the grounds with
+the others? Will she ever regain her senses? Or, for the rest of her days will
+she remain cloistered behind these thick, grey walls? Based on her progress so
+far, it seems futile to hold out much hope for a cure.
+
+"Little could I have imagined her mind would eventually gambol in unimaginable
+forests and gardens" -27/1/74
+
+----------------
+23 March 1865
+----------------
+
+Nothing seems to aggravate the girl. I've tried restraint--handcuffs, leg-locks
+and straightjackets. I've tried solitary confinement. On the other hand, I've
+allowed her to smell freedom, leaving her for hours at a time unattended in the
+garden. Yet nothing stirs her. I still have a number of methods, some of which
+I haven't engaged in since the old days, but I'm beginning to doubt anything
+can bring about a change in this one.
+
+----------------
+1 April 1865
+----------------
+
+Each year on this peculiar day I pause--exactly at noon according to my pocket-
+watch--to ponder the absurdity of such a day. Is it not ironic that we here
+should celebrate a holiday dedicated to fools? The girl has shut down
+completely. If it were possible, I'd say Alice has retreated even further into
+what the European practitioners of psychiatry call her "psyche". I'll keep
+trying different methods, but unless there's some sort of marked improvement,
+there's no reason to hope. I'll document progress...if indeed there ever is any
+progress.
+
+----------------
+7 September 1873
+----------------
+
+After years of slumber, she chooses to speak to use with a picture, a drawing
+of some sort of cat. Really, though, it's nothing like any cat I've ever seen.
+
+"Even a drawing so bizarre couldn't foreshadow the imaginings to come" -29/3/74
+
+----------------
+10 September 1873
+----------------
+
+While Alice napped following her afternoon sedation, Nurse D- took it upon to
+replace the rabbit's missing eye. Even after living so many years in an infirm
+population, it can still surprise me when a seemingly trivial act can trigger
+such a remarkable reaction. Alice woke from her nap and began to sob
+hysterically. "Tell me, child, what's wrong?" pleaded Nurse D-. "What is it,
+dear?" In an instant of semi-awareness, Alice spoke a sort of poetry.
+
+"Into the hole again, we hurried along our way Into a once-glorious garden now
+seepd in dark decay"
+
+She continued to cry, and it was only when Nurse D- plucked the newly stitched
+eye from the rabbit's face that Alice fell back into her customary state.
+
+"With such behaviour, maybe it was a mistake to stir these waters and awaken
+her" -29/3/74
+
+I don't know whether to cheer at this response--any response--or grow alarmed
+over the intensity of her emotional outburst. At least we discovered one thing:
+She can speak.
+
+----------------
+11 September 1873
+----------------
+
+When she is so inclined, Alice can draw. This morning I was greeted by another
+of Alice's artistic phantasmagorias. What is it she's rendering? I can only
+think it's a depiction of her nightmare of Hell.
+
+----------------
+15 October 1873
+----------------
+
+Approaching Alice's room, I heard the muffled sounds of laughter. A pair of
+orderlies were cursing at her and threatening her with leather straps. It's
+easy to see that this pair was weaned from the same teat. Alice didn't respond
+to their tomfoolery; and the orderlies were not impressed by my reprimand. Good
+help is so hard to find.
+
+----------------
+18 October 1873
+----------------
+
+The Superintendent paid a visit. The smell of his perfumed handshake is still
+in my nostrils. He doesn't visit often, but when he does he arrives unannounced
+and remains overlong. Typically, he flounces through the infirmary pretending
+to be interested in this case or that. This time, he requested to see Alice and
+asked for the leeches. When she refused to stir, the Superintendent stretched
+wide his mouth in a yawn of infinite boredom. When I displayed some of her
+recent artwork, the Superintendent's attention was caught again as if someone
+jabbed his fatty palm with a hot poker.
+
+"He was in a very agitated state when he departed" -7/4/74
+
+----------------
+24 October 1873
+----------------
+
+Nurse D- has been listening from outside the door. Alice, it seems, has been
+muttering inarticulately. Though no one can understand her, it's likely she's
+addressing the one-eyed hare.
+
+----------------
+26 October 1873
+----------------
+
+Her case is not overly remarkable...at least not when compared to the countless
+other patients who live within these walls. I am not minimising her tragedy--
+the undeniable strain is enough to set anyone's mind askew. Imagine the horror
+of hearing the piteous cries of your entire family--trapped in their burning
+bedrooms--and being unable to help. Alice certainly heard such screams. I
+imagine she's been hearing them for ten years.
+
+"Looking back, I retract this statement. Her case IS most remarkable" -7/4/74
+
+----------------
+3 November 1873
+----------------
+
+I hear the clock ticking onward, past midnight, and then I'm suddenly aware of
+other sounds. In the barren pit of the night, the most disturbed minds are
+alive throughout the asylum. Alice isn't stirring, so I listen to the blood-
+curdling shrieks, the haunting clank of shackles, the insane groaning,
+insufferable babble and lunatic mutterings. After the initial convulsions,
+Alice's body again appears lifeless. If it weren't for the for the sporadic
+utterances in her sleep, I'd hold the mirror to her mouth. It's impossible to
+comprehend what she says. It sounds like "too glum" or "through him" or
+"boo-jum". Nonsense really. Is it a person's name? A place? Or simply some
+conjuring of this raving delirium? I yell the utterance into her ear and prick
+her shoulder with a needle--she gasps, but her speech does not become any
+clearer.
+
+"Boojum! But how does she construct such fantasies?" -11//4/74
+
+The potion courses through her blood. Sitting in this cold room reminds me of
+the last treatment here. The shredded padding recalls to my mind the patient
+who believed rats spoke to him--they lived in the padding, he said. Indeed, he
+believed the spirits of his ancestors spoke to him through the rats. After the
+trepanation, he stopped having such delusions and was removed to the Dormitory.
+Alice remains quiet.
+
+----------------
+21 November 1873
+----------------
+
+Once again, the orderlies were up to their usual pranks. Weary of prying open
+Alice's mouth, the orderlies started "feeding" Alice's toy rabbit, spooning
+porridge onto the stuffed toy.
+
+"My suspicions are confirmed. Those oafish orderlies are the Superintendent's
+misbegotten nephews" -13/4/74
+
+While engaged in this feeding, the orderlies learned an essential lession in
+asylum protocol--never turn your back on a patient...no matter how docile she
+seems. From information I've gathered, Alice woke from her comatose state and
+attacked the orderlies. Quite venomous in her outburst, she pursued one of the
+twins with a spoon. Even in her condition, she was able to deliver quite a
+gash. She clutched the spoon like it was a butcher knife, gouging into his
+fleshy cheek. Ceasing in mid-attack, she turned the spoon on herself, digging
+it into her wrists, trying to open up her veins. I stitched her wounds and
+tended to the orderly. Alice shouldn't suffer any permanent physical scars,
+it's too early to say the same about the orderly.
+
+"An outburst such as this shouldn't have surprised me" -13/4/74
+
+She has returned to her dormant state. Nothing I say or do can entice her to
+relive her early morning animation.
+
+----------------
+7 December 1873
+----------------
+
+Here's been a slight change. Her mouth is now relaxed, and we can feed her
+without force. When it's time for her elixir, she seems to part her lips
+slightly as if she's inviting the new potion into her belly. Hardly a cure, but
+any change symbols progress.
+
+----------------
+8 December 1873
+----------------
+
+A mangy cat was licking at Alice's cheek. It hissed when I entered, and pounced
+onto the windowsill--it must be flesh and bones only to squeeze through the
+grate. I could almost perceive a smile on its scabbed face. It's curious how an
+animal's countenance can appear almost human. There are so many feral cats on
+the grounds. I wouldn't be surprised if they outnumber the patients.
+
+"It reminds me of the cat that pounced on Alice when she arrived here. More
+emaciated though." -26/4/74
+
+----------------
+13 December 1873
+----------------
+
+Something in the outdoor air may have stirred he imagination. On her return she
+produced an intriguing sketch. Once again she proves she is capable of doing
+something other than staring at the yellowed paint on the ceiling.
+
+"At times there's talent in her madness" -26/4/74
+
+----------------
+15 December 1873
+----------------
+
+It's been three days since I removed the rabbit from her room. We can hear her
+screams growing louder through the closed door.
+
+----------------
+25 December 1873
+----------------
+
+She has returned to her trance-like state, with one notable exception--her
+mouth stretches very wide whenever anyone enters the room. Whether it's for the
+potion or for the food, she's definitely inviting more.
+
+"What she means by repeatedly whispering "Eat me" and "Drink me" still eludes
+me"  -23/7/74
+
+----------------
+17 April 1874
+----------------
+
+Months pass and still nothing. Nurse D-, having lost patience with my
+treatments, insists on trying a "cure" of her own. She stiched the rabbit
+together and tucked it into bed with Alice.
+
+----------------
+18 April 1874
+----------------
+
+Interesting development! Alice has returned the gift, presenting Nurse D- with
+a drawing of a rabbit, though it's quite different from her toy.
+
+"My watch?" -10/5/74
+
+----------------
+1 June, 1874
+----------------
+
+Out of nowhere, and as shocking as a bolt of lightning across a sky of purest
+azure, Alice greeted me with a strange grin. And then, lightning bolt upon
+lightning bolt, she began to converse quite freely as if we'd been speaking to
+each other like this for decades. I'll include just a smattering of remarks as
+evidence, not that the burden of proof is with me in this foul courtroom.
+"Beware the Snark's poisonous spit...roll the Demon Dice wisely or the game
+turns on you...note the Centipede has a tender underbelly...I enjoy the taste
+of mushrooms, but not the ones that bite back."
+
+Regrettably, I cannot regard this manical outpouring as an improvement in her
+condition.
+
+----------------
+2 June, 1874
+----------------
+
+It's a world of sheer, chaotic terror and unmitigated bloodshed--that's the
+world she inhabits. So severe are her delusions, so fantastical and absurd,
+that at times it's difficult for me to listen. She speaks of a nightmare realm
+where everything seems bent on her destruction. Gigantic Bayonet-toting ants
+and flesh rending flowers. Carnivorous fish and fire-spewing abominations. The
+range of hellish creatures populating her world is dizzying. They are, on
+balance, more dranged than the most demonic trptych Hieronymus Bosch ever
+painted. It's as if I have been waiting and waiting for water to pour from a
+spigot. Now, the water has finally started pouring, and I cannot staunch the
+flow, nor discover its poisoned source.
+
+----------------
+7 June, 1874
+----------------
+
+More and more, she confides in me. She drones on and on. I think the elixir is
+at the proper dosage now. At times, she seems to fear and loathe my presence,
+yet she speaks as if she can't help herself.
+
+----------------
+8 June, 1874
+----------------
+
+She spent the afternoon telling of a grisly siege between life-size chess
+pieces. Having been hounded by a cyclopic pawn, it seems she dispatched the
+one-eyed monster only to be chased mercilessly over the living chessboard by a
+pair of renegade rooks. as usual, her description was vivid beyond
+comprehension, a story decidedly more compelling than anything in Froissart's
+chronicles.
+
+----------------
+11 June 1874
+----------------
+
+Dozing off for a few minutes only, I woke to the sight of Alice's freed hands
+tugging at my watch fob. Shackles might be required for future sessions--at
+least until she behaves. I'm taking her pencils as well. Let's see if this
+punsishment provokes a response.
+
+----------------
+12 June 1874
+----------------
+
+I should have predicted this. without pencil, she turns to poetry.
+
+"Mange-ridden to the core, he leads me through the fray With the toss of a
+Jackbomb, I clear abominations from our way"
+
+I asked her to describe a "Jackbomb". Cunning and clever girl, she asked me to
+return her pencil.
+
+----------------
+15 June 1874
+----------------
+
+Her conversation contains flashes of lucidity. Certain powerful words, however,
+cause her to dip back into her fantasy world. And a word like "fire" can, for
+obvious reasons, set her tumbling into an abyss of sadness.
+
+"Her conversations can be clear, but her drawings show no such progress."
+-20/7/74
+
+----------------
+17 June 1874
+----------------
+
+Alice hurled the teapot across the room. 
+"How many times must I tell you? I only take tea with friends!"
+
+----------------
+18 June 1874
+----------------
+
+At times, she can be quite civil, and sometimes disgustingly vile. As an
+experiment, I've decided to suspend all medication, except for a heavy dose of
+laudanum when she's in the foulest of tempers.
+
+----------------
+25 June 1874
+----------------
+
+Perhaps more cold saltwater treatments will cleanse some of the chaotic
+thinking from her mind. She has been ranting. In particular, she's been
+spouting violently against someone she refers to as the Red Queen.
+
+"Though the Queen dominates much conversation, Alice refuses to describe or
+draw the monarch. Her anger, though, knows no limit when she talks about what
+she'd like to do to the Queen." -20/7/74
+
+----------------
+19 July 1874
+----------------
+
+In her most disturbing outburst in quite some time, Alice attacked one of the
+nurses while being bathed. Called her "Duchess".
+
+----------------
+22 July 1874
+----------------
+
+From a recent conversation with Alice:
+"What have you been doing, Alice?"
+"Attending the tea party of course."
+"Was it a grand party?"
+"Oh most grand, dear doctor. I fear nothing and soon the Keep will be in
+reach."
+
+----------------
+25 July 1874
+----------------
+
+Her sleep is very restless one night, and then calm as an infant's the next.
+She's become consistently unpredictable.
+
+----------------
+27 July 1874
+----------------
+
+Alice delivered another verse to her puzzling rhyme.
+"They taunt me about the burning as if I were to blame, 
+I clear them from my conscious with the eloquence of my blade"
+
+----------------
+28 July 1874
+----------------
+
+She spoke at length of a place called the Fungiferous Forest. It's a place
+filled with mushrooms the size or large trees; fungus and foliage that grabs
+those who trample it; cavernous wastes filled with creatures who are as
+disturbed as any I've ever heard of.
+
+"She's drawn a picture of a place like this, I seem to recall." -2/8/74
+
+----------------
+10 August 1874
+----------------
+
+It's difficult for me to connect the massively passive Alice to the
+aggressively assertive, powerful person she describes in her dreams. Her
+exploits with the knife conjure images of a musketeer's swashbuckling panache;
+her acts of courage those of a selfless hero. These are not "delusions of
+Grandeur". This is no simple madness. But what?
+
+"How does she really see herself then?" -24/8/74
+
+----------------
+12 August 1874
+----------------
+
+"Off with her head!" Those were her only words today. She wouldn't explain what
+this meant, though her face betrayed the violent anger that is usually
+associated with her tales of the Queen of Hearts.
+
+"What does it say about me that I've grown accustomed to such outbursts?"
+-11/9/74
+
+----------------
+13 August 1874
+----------------
+
+Everything I can think of, I have done. Treatments, remedies, disciplines and
+pleasures--nothing makes a difference. Alice speaks when and about what she
+wants, recites poetry on a seeming whim, draws pictures at her own pleasure.
+She does nothing at my command, instruction, entreaty or request. She's become
+very wilful, and nothing I do or say makes a difference. I truly do, however,
+become immersed in her fantastic tales of Wonderland. I wait for the day when
+she claims victory over the Red Queen and her minions, when Wonderland will be
+restored. Perhaps by this Alice will cure herself, regain her balance and leave
+this place of her own volition. Sometimes she appears to be so close, but at
+other times I'm certain it'll never happen and she'll spend the rest of her
+life housed behind Rutledge's gaunt brown walls...with me.
+
+----------------
+24 August 1874
+----------------
+
+"If it's my keen invention you'd like to destroy
+ I'll withstand your best shot; I've got the right toy"
+
+============================================================
+11: Non-implemented Dialogue
+
+These are sound files and subtitles present in the game files, but not used (to
+the best of my knowledge) in the actual game.
+
+---------------------
+Alice - Idle Dialogue
+
+ALICE: Perhaps I'll just look around a bit.
+
+ALICE: A familiar face wouldn't be unwelcome.
+
+ALICE: Curiouser and Curiouser.
+
+ALICE: Where is that Rabbit?
+
+ALICE: Trembling signals timidity. I'd smell trouble... if I weren't shaking
+so.
+
+ALICE: This is all vaguely reminiscent, but alien.
+
+ALICE: A fine mess--comes from chatting with a Rabbit.
+
+ALICE: My Gosh. What was that? And what is that noise?
+
+ALICE: If ignorance is bliss, I must be ecstatic.
+
+ALICE: It seems one can't go home again.
+
+ALICE: Perhaps the asylum wasn't so bad.
+
+ALICE: How curious. How very curious.
+
+ALICE: I keep saying, You've seen worse at Rutledge's, but it's very little
+comfort.
+
+ALICE: Wondering alone is worthless. I must act.
+
+ALICE: Is this weird, or am I hallucinating?
+
+ALICE: Weird and terrifying are definitely not the same.
+
+ALICE: Curiosity can kill I suppose; but apathy is lethal.
+
+ALICE: A dream discarded dies hard.
+
+ALICE: Wonderland, where are you now?
+
+ALICE: This is a most peculiar trip.
+
+---------------------
+Cheshire Cat - Instructions / Powerups
+
+<run>
+CHESHIRE: Haste makes waste, so I rarely hurry. But if a ferret were about to
+dart up my dress, I'd run.
+
+<swing>
+CHESHIRE: Scythes, hips, and the hangman's noose all do it. Why not you?
+
+<jack in the box>
+CHESHIRE: Jack's a friend, but his temperament is explosive. May be best to let
+him play by himself. 
+
+<jabberwock eye staff>
+CHESHIRE: Launch this rocket against a distant target. Its white-hot energy
+does terrible damage.
+
+<collect health>
+CHESHIRE: Whoever says too much of a good thing is not enough, speaks the
+truth.  
+
+<collect health>
+CHESHIRE: Whatever says too much of a good thing must be bad, tells a lie.
+
+<use weapon>
+CHESHIRE: For every task there's a proper tool; sometimes more than one.
+
+<turtle shell>
+CHESHIRE: The mask will not fool the water. But I will confound your enemies
+when you can swim and breath like a reptile while wearing it. 
+
+<darkened looking glass>
+CHESHIRE: Noisy creatures, crooks, and assorted voyeurs would love to be
+invisible. For you the option may be a matter of survival.
+
+<darkened looking glass>
+CHESHIRE: What they can't see, they don't want to hear. You'll do better if you
+become corporeal. 
+
+<rage box>
+CHESHIRE: You're sufficiently fortified to kick some ass.
+
+<rage box>
+CHESHIRE: You're sufficiently fortified to boot these creatures' nether
+regions.
+
+<rage box>
+CHESHIRE: Threats, promises, and good intentions don't amount to action. 
+
+---------------------
+Cheshire Cat - Snide Comments
+
+CHESHIRE: I can't know everything. Pretend you're an orphan. . . oh, that was
+rude; you are.
+
+CHESHIRE: Work if you must. It's my nature to unwind from time to time.
+
+CHESHIRE: I've heard self-reliance is a virtue. Now you've heard it.
+
+CHESHIRE: I suppose experience teaches best, learn by doing, and similar
+cliches have merit. Take their advice. I'm busy.
+
+
+============================================================
+12: FAQs
+
+nothing yet
+
+============================================================
+13: Credits
+
+American McGee and Rogue Entertainment for developing this game.
+
+EA Games for publishing this game.
+
+GAMEFAQS for hosting this FAQ.
+
+Odd Magne Granli (aka Lsnake/Engelen) for his excellent walkthrough and for
+taking the time to transcribe the background story from the game manual.
+
+============================================================
+
