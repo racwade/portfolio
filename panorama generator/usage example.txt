@@ -1,0 +1,1 @@
+python pano.py yosemite1.jpg yosemite2.jpg yosemite3.jpg yosemite4.jpg
