@@ -13,6 +13,9 @@ An individual project for a Computer Vision class. This program attempts to gene
 ### related term crawler
 An individual project for a programming course. This is a naive "related term" generator that, given a particular word or phrase of interest and a number of sources containing that word or phrase, attempts to construct a list of the most likely related terms, based on how frequently the related term appears close to the base term.
 
+### room availability skimmer
+A group project for a Web Development class. This program, among other things, parses through an HTML file containing courses, and files the information about when classes are taking place into a NoSQL database, allowing for room availibility queries.
+
 ### texture analysis
 An individual project for a Computer Vision class. This program algorithmically determines areas of focus in a picture, and attempts to highlight them.
 
