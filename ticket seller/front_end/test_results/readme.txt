@@ -1,0 +1,1 @@
+Test results will appear in different folders in here. One 'sample' result is provided - format is testname_yymmdd_hhmmss

@@ -1,0 +1,8 @@
+welcome to the ticket seller system
+enter username:
+logged in as test_admin
+enter event name:
+enter credit amount:
+enter user to add credit to:
+error:invalid credit value ($1000 max)
+bye

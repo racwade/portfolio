@@ -1,0 +1,9 @@
+admin           AA 001000.00
+caleb           SS 000000.00
+mike            FS 000100.00
+elias           BS 000001.00
+buyer           BS 999999.00
+seller          SS 000000.00
+seller_max      SS 999999.00
+buyer_min       BS 000000.01
+buyer_close     BS 999990.00

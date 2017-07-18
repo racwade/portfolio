@@ -1,0 +1,3 @@
+[submodule "coderadery-project"]
+	path = coderadery-project
+	url = git@github.com:MichaelStergianis/coderadery-project.git

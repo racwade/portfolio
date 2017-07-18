@@ -1,0 +1,31 @@
+TEST LISTING DOCUMENT
+
+Each test is given its own folder, which contains files in the following syntax:
+
+buy1.in <- input file
+buy1.out <- expected output file
+buy1.tran <- expected transaction files (where X is a number, in the order which the transactions are expected to be output)
+
+In addition, the _generic folder contains files specific to all test cases.
+
+- - -
+
+TESTING METHOD
+
+*.in files will be redirected into the program, and the results will be compared against the corresponding *.out and *.tran files.
+Problems will be reorded and sorted into severity so that reprogramming can be done to fix issues.
+
+In addition, after most tests, the user and ticket files for the test cases will be replaced with their default versions.
+
+
+- - -
+
+TEST STORAGE
+
+Test results will be stored in the test_results folder, with a procedurally generated name based on test run and time. A comparison will be made between the test output file and the actual output file through use of a "diff" command (or similar).
+
+- - -
+
+ASSUMPTIONS MADE:
+Apart from questions made in the chat channel and material specified in the requirements, the following assumptions were made:
+* Under normal circumstances, even when an event reaches 0 tickets, the event still remains until removed manually.

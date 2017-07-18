@@ -1,0 +1,10 @@
+welcome to the ticket seller system
+enter username:
+logged in as test_admin
+enter event name:
+enter buyer name:
+enter seller name:
+enter refund amount:
+error: buyer name not found in system
+error: seller name not found in system
+bye

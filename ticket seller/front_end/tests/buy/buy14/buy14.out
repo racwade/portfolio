@@ -1,0 +1,9 @@
+welcome to the ticket seller system
+enter username:
+logged in as test_admin
+enter seller's username:
+enter event name:
+enter number of tickets to buy:
+total cost for 5 tickets is 500.00. confirm? (yes/no):
+purchased 5 tickets to Many from test_sell for 500.00
+bye

@@ -1,0 +1,9 @@
+welcome to the ticket seller system
+enter username:
+logged in as test_admin
+enter event name:
+enter buyer name:
+enter seller name:
+enter refund amount:
+error: refund amount cannot be negtive
+bye

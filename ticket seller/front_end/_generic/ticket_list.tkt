@@ -1,0 +1,5 @@
+Few                test_sell      001 000100
+Many               test_sell      005 000100
+Empty              test_sell      000 000100
+Rich               test_sellrich  001 000100
+END

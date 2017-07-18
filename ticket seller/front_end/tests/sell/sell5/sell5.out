@@ -1,0 +1,7 @@
+welcome to the ticket seller system
+enter username:
+logged in as test_sell
+enter event name:
+enter ticket price:
+error: price must be 0.01 or more
+bye

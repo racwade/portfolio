@@ -1,0 +1,7 @@
+test_admin      AA 000009999
+test_buy        BS 000009999
+test_sell       SS 000009999
+test_full       FS 000009999
+test_sellrich   SS 000999999
+test_buypoor    BS 000000000
+END                         
